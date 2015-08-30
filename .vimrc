@@ -16,7 +16,7 @@ Plug 'kien/ctrlp.vim'
 
 call plug#end()
 
-execute pathogen#infect()
+
 
 set number
 :nmap <C-N><C-N> :set invnumber<CR>
