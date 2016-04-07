@@ -21,7 +21,7 @@ call plug#end()
 set number
 :nmap <C-N><C-N> :set invnumber<CR>
 
-set bg=dark
+set background=light
 
 syntax enable
 colorscheme gruvbox
